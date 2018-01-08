@@ -5,12 +5,12 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "bcrypt": "*",
+    "babel-runtime": "*",
+    "bcrypt": "^1.0.3",
     "fibers": "*",
     "forever": "*",
     "semver": "*",
     "source-map-support": "*",
-    "underscore": "*",
-    "babel-runtime": "*"
+    "underscore": "*"
   }
 }
